@@ -18,3 +18,5 @@ UI is not finished yet
 
 ![image](https://github.com/user-attachments/assets/7b150141-99f0-4ea4-9dc1-3a69638bc005)
 
+![image](https://github.com/user-attachments/assets/472366b4-c2fe-4dfd-8bd7-8ed735516a63)
+
