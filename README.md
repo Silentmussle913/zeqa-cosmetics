@@ -20,3 +20,7 @@ UI is not finished yet
 
 ![image](https://github.com/user-attachments/assets/472366b4-c2fe-4dfd-8bd7-8ed735516a63)
 
+one of the main issue is in servers we created a mod that like enables us to run the like commands to latch the entity to us like every tick but in worlds and realms it only does it like once every 20 ticks and its kinda simple to fix like just use .mcfunctions but
+idk i will fix it soon heres a clip on how bad the delay is 
+
+https://youtu.be/D0ilzKGxWI8
